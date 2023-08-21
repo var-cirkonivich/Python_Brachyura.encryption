@@ -1,7 +1,7 @@
 # Introduction：
 
 - This is an useless program to encryption your textfile.
-- File name format:    Brachyura_encryption_{ _Version name_ }
+- File name format:    Brachyura_encryption_program_{ _Version name_ }
 
 ══════════════
 
