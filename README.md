@@ -1,4 +1,4 @@
-**For details, please refer to the latest version on the right!**
+(：**For details, please refer to the latest version on the right!**
 # Introduction：
 
 - This is an useless program to encryption your textfile.
